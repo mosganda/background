@@ -1,8 +1,8 @@
 
 //correction
 const pics = [
-    "pic-0.jpg",
     "pic-1.jpg",
+    "pic-0.jpg",
     "pic-2.jpg",
     "pic-3.jpg",
     "pic-4.jpg",
